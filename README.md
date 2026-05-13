@@ -6,6 +6,7 @@ A mobile-first gyroscope-based flight simulator that runs entirely in the browse
 
 ## Features
 
+
 - **Gyro controls** — tilt your phone to pitch and roll the aircraft
 - **Touch drag fallback** — drag on the canvas when gyro is unavailable
 - **Mouse fallback** — works on desktop for testing
